@@ -13,7 +13,7 @@
 </p>
 
 ## 🚀 About Me 
-👋 Hi! I'm a 3rd-year International Economics student who loves numbers and analytical thinking.
+👋 Hi! I'm a 4th-year International Economics student who loves numbers and analytical thinking.
 
 📈 Combining my background in economics with a growing toolkit in data analytics, I aim to become a versatile Data Analyst.
 
